@@ -2,7 +2,7 @@
   "author": "COINQVEST LLC",
   "name": "sep6-client",
   "description": "Node JS based Stellar SEP-6 Client by COINQVEST",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./lib/index.js",
   "keywords": [
     "stellar",
