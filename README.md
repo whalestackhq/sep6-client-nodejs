@@ -1,6 +1,6 @@
 # COINQVEST SEP-6 Client (Node JS)
 
-This client communicates with COINQVEST's Stellar [SEP-6](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/sep-0006.md) transfer server documented [here](https://www.coinqvest.com/en/sep6-api-docs). It lets you on- and off-ramp Bitcoin on the Stellar Network. This client is written in Node JS but we also provide clients in [different programming languages](https://www.coinqvest.com/en/sep6).
+This client communicates with COINQVEST's Stellar [SEP-6](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/sep-0006.md) transfer server documented [here](https://www.coinqvest.com/en/sep6-api-docs). It lets you on- and off-ramp Bitcoin on the Stellar Network. This client is written in Node JS but we also provide clients in [different programming languages](https://www.coinqvest.com/en/sep6-api-docs).
 
 Read our [stellar.toml](https://www.coinqvest.com/.well-known/stellar.toml) to inspect available COINQVEST assets on the Stellar Network. At the time of writing we support wrapped Bitcoin and Litecoin.
 
