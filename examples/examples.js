@@ -4,7 +4,7 @@ const Sep6Client = require('../lib/index');
 async function main() {
 
     const client = new Sep6Client(
-        'sep6.coinqvest.com'
+        'sep6.whalestack.com'
     );
 
     let response1 = await client.get('/info');

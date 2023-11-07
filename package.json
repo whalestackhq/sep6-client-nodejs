@@ -1,8 +1,8 @@
 {
-  "author": "COINQVEST LLC",
+  "author": "Whalestack LLC",
   "name": "sep6-client",
-  "description": "Node JS based Stellar SEP-6 Client by COINQVEST",
-  "version": "1.0.1",
+  "description": "Node JS based Stellar SEP-6 Client by Whalestack",
+  "version": "2.0.0",
   "main": "./lib/index.js",
   "keywords": [
     "stellar",
@@ -18,9 +18,9 @@
     "axios": "^0.21.1"
   },
   "license": "Apache-2.0",
-  "homepage": "https://www.coinqvest.com",
+  "homepage": "https://www.whalestack.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/COINQVEST/sep6-client-nodejs"
+    "url": "https://github.com/whalestackhq/sep6-client-nodejs"
   }
 }
